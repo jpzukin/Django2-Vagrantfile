@@ -17,3 +17,5 @@ Vim 8.xは、ソースファイルからのインストール。
 Webサーバーは開発用サーバーを利用します。
 
 Windows上でも利用しやすいように、VirtualBox Guest AddtionsがインストールされているBoxイメージから仮想マシンを構築します。
+
+`.vim/`、`.vimrc`はおまけのVim8環境。
